@@ -25,8 +25,7 @@ town_hall/
 ├── main.py
 ├── config.json
 ├── utils/
-│ ├── web_scraper.py
-│ └── other_utils.py
+│ ├── scraper.py
 ├── reports/
 └── README.md
 ```
