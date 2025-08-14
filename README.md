@@ -7,7 +7,7 @@ This Python project tracks new metal releases from multiple websites (Metal Arch
 ## Features
 
 - Fetch recent releases filtered by **genre** and **days back**.
-- Scrape **Metal Archives** and **Bandcamp**.
+- Scrape **Metal Archives** .
 - Outputs results in a **HTML table** with columns:
   - Band
   - Record Name
