@@ -20,6 +20,7 @@ This Python project tracks new metal releases from multiple websites (Metal Arch
 
 ## Project Structure
 
+```text
 town_hall/
 ├── main.py
 ├── config.json
@@ -28,6 +29,7 @@ town_hall/
 │ └── other_utils.py
 ├── reports/
 └── README.md
+```
 
 
 - `main.py` – Main script to run the tracker and generate HTML report.
