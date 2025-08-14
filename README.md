@@ -1,6 +1,6 @@
 # Townhall Release Tracker
 
-This Python project tracks new metal releases from multiple websites (Metal Archives, Bandcamp, etc.) based on genre and release date. It generates an **HTML report** with clickable links for bands and albums.
+This Python project tracks new metal releases from multiple websites (Metal Archives) based on genre and release date. It generates an **HTML report** with clickable links for bands and albums.
 
 ---
 
